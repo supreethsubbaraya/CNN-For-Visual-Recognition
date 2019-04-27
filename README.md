@@ -1,1 +1,1 @@
-# CNN-For-Visual-Recognition
+# CS231n
